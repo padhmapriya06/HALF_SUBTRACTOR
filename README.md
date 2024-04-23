@@ -26,7 +26,7 @@ STEP:7 compare the output with truth table.
 # Circuit Diagram
 ![image](https://github.com/RESMIRNAIR/HALF_SUBTRACTOR/assets/154305926/df70da69-5a12-4a0d-ab84-a98dad3f7e70)
 ![image](https://github.com/RESMIRNAIR/HALF_SUBTRACTOR/assets/154305926/2f2d6a4d-9eda-4165-8579-1d7490b5fe97)
-# verilog code:
+# Program:
 
 module halfsubtractor(a,b,diff,borrow);
 
@@ -40,7 +40,7 @@ and g2(borrow,~a,b);
 
 endmodule
 
-# output:
+# Output:
 ![image](https://github.com/padhmapriya06/HALF_SUBTRACTOR/assets/160568779/f18850f3-7842-4673-a3cb-d57fe140b061)
 
 # Result:
